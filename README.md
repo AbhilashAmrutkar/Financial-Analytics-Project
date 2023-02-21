@@ -1,4 +1,4 @@
-# Financial-Analytics-Project
+## Financial-Analytics-Project
   Objective is to analyzing the competition of business for the management to provide better results.  Find key metrics and factors and show the meaningful relationships   between attributes. 
 # Roles & Responsibilities -
    Proper Understanding of data of top 500 companies in India.

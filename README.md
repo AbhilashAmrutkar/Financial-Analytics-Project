@@ -5,4 +5,5 @@
    Used python libraries like pandas, numpy, matplotlib & seaborn to analyze this project.
    Produced Report and dashboard to present trends in data. 
    Created HLD, LLD and Architecture design documents. 
-   Skills Utilized – Python, Excel, Power BI, Data Extraction, Data Transformation, Data Load, Data Visualization, Power point.
+# Skills Utilized – 
+  Python, Excel, Power BI, Data Extraction, Data Transformation, Data Load, Data Visualization, Power point.
